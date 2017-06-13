@@ -1,4 +1,4 @@
-#include <functions.h>
+#include "functions.h"
 
 float D(float a, float b, float c)
 {
