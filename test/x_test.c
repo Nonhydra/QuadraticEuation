@@ -37,6 +37,5 @@ CTEST(x_test, d_equal_zero)
 	const float result = X(d, a, b, num);
 
 	const float expected = -1;
-	const int expected = -3;
 	ASSERT_EQUAL(expected, result);
 }
