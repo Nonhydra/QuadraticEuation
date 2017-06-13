@@ -1,1 +1,1 @@
-Gcc -wall -o QE main.c
+gcc -wall -o qe main.c
